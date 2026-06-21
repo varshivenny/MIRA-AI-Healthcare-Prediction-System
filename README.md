@@ -84,6 +84,8 @@ Run application:
 
 streamlit run app.py
 
+http://localhost:8501
+
 Output :
 
 <img width="1907" height="770" alt="image" src="https://github.com/user-attachments/assets/356c679c-bf85-4b14-afb7-edfbb7f508db" />
