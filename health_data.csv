@@ -1,0 +1,11 @@
+glucose,haemoglobin,cholesterol,risk
+80,14,160,Healthy
+90,13,180,Healthy
+110,12,200,Low Risk
+130,11,230,Medium Risk
+150,10,260,Medium Risk
+180,9,300,High Risk
+210,8,330,High Risk
+95,15,170,Healthy
+170,9,290,High Risk
+140,10,250,Medium Risk
